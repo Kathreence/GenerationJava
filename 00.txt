@@ -1,0 +1,8 @@
+differenza tra il chiamante e il chiamato.
+
+differenza tra le parentesi:
+ - le tonde sono deu metodi/funzioni;
+ - le quadre array;
+ - le graffe contiene delle istruzioni;
+ - 
+
