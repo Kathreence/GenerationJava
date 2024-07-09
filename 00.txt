@@ -1,3 +1,7 @@
+da terminale senza debugger
+javac per compilare
+java per 
+
 differenza tra il chiamante e il chiamato.
 
 differenza tra le parentesi:
@@ -6,3 +10,5 @@ differenza tra le parentesi:
  - le graffe contiene delle istruzioni;
  - 
 
+L.I.F.O.
+last in first out
